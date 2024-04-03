@@ -1,5 +1,5 @@
-CLIENT_ID="11b8fee9caca4779bbbb5673a0271064"
-CLIENT_SECRET="048fb0bd4e064fc084738bfd594ccf1a"
+CLIENT_ID="YOUR CLIENT ID"
+CLIENT_SECRET="YOUR CLIENT SECRET"
 
 from bs4 import BeautifulSoup
 import requests
